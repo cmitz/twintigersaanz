@@ -1,25 +1,40 @@
 ---
 layout: default
-title: About
+title: Over ons
 order: 2
 customPage: true
-permalink: /about/
+permalink: /over-ons/
 ---
 
 <section class="page-about">
     <div class="profile">
-        <img src={{"/assets/images/henry.webp" | absolute_url}} width="250" height="300" alt="{{site.title}}" />
+        <img src={{"/assets/images/zoe.jpg" | absolute_url}} width="260" height="260" alt="{{site.title}}" />
         <ul>
+            {% if site.facebook %}
             <li><a href="{{site.facebook}}" rel="noreferrer" target="_blank"><svg width="16" height="16"><use href={{"/assets/images/social-icons.svg#facebook" | absolute_url}}></use></svg></a></li>
+            {% endif %}
+            {% if site.twitter %}
             <li><a href="{{site.twitter}}" rel="noreferrer" target="_blank"><svg width="16" height="16"><use href={{"/assets/images/social-icons.svg#twitter" | absolute_url}}></use></svg></a></li>
+            {% endif %}
+            {% if site.instagram %}
             <li><a href="{{site.instagram}}" rel="noreferrer" target="_blank"><svg width="16" height="16"><use href={{"/assets/images/social-icons.svg#instagram" | absolute_url}}></use></svg></a></li>
+            {% endif %}
+            {% if site.email %}
             <li><a href="{{site.email}}" rel="noreferrer" target="_blank"><svg width="16" height="16"><use href={{"/assets/images/social-icons.svg#email" | absolute_url}}></use></svg></a></li>
+            {% endif %}
         </ul>
     </div>
 
-    <h1>Hello, I'm {{site.title}}!</h1>
-    <p class="intro-paragraph">I'm a London-based front-end web developer with over ten years of experience. I design and build beautiful, responsive websites.</p>
+    <h1>Theatergroep Twintigers aan Z</h1>
+    <p class="intro-paragraph">Welkom op de website van Twintigers aan Z. Op 28 mei spelen wij de voorstelling “Goed, met jou?” in Enschede. Koop kaarten op de website van <a href="https://www.concordia.nl/theater/goed-met-jou-twintigers-aan-z/28-05-2022-20-00">Concordia</a>.</p>
 
-    <p>Henry is an English male given name and surname derived from Old French Henri/Henry, itself derived from the Middle High German name Heinrich, from Old High German Haimirich (from haim- "home" and rich "ruler"), which was conflated with the name Haginrich (from hagin "enclosure" and rich "ruler").</p>
-    <p>The Old High German name is recorded from the 8th century, in the variants Haimirich, Haimerich, Heimerich, Hemirih. Harry, its English short form, was considered the "spoken form" of Henry in medieval England. Most English kings named Henry were called Harry. The name became so popular in England that the phrase "Tom, Dick, and Harry" began to be used to refer to men in general. The common English feminine forms of the name are Harriet and Henrietta.</p>
+    <h2>Contact</h2>
+
+    <p>Heb je interesse in een samenwerking, of vragen over meespelen of de voorstelling? Neem dan contact op door te mailen naar: <a href="mailto:twintigersaanz@gmail.com">twintigersaanz@gmail.com</a></p>
+
+    <h2>Twintigers aan Z in het nieuws</h2>
+
+    <ul>
+        <li><a href="https://www.ingridbosman.nl/twintigers-pakken-het-podium">Ingrid Bosman: Twintigers pakken het podium</a></li>
+    </ul>
 </section>

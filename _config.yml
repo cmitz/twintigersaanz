@@ -11,7 +11,7 @@ url: "https://twintigersaanz.nl"
 darkMode: true
 showTags: true
 showCategories: true
-showSearch: true
+showSearch: false
 showSharePost: false
 showFavIcon: true
 showComments: false
