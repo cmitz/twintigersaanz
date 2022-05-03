@@ -1,34 +1,94 @@
+# General
 title: Twintigers aan Z
-email: twintigersaanz@gmail.com
 description: >-
   Theatergroep Twintigers aan Z uit Enschede
+
+# Paths
 baseurl: ''
 url: "https://twintigersaanz.nl"
-twitter_username: ''
-instagram_username: twintigersaanz
-github_username:  ''
 
-# Build settings
-theme: minima
-plugins: []
-  # - jekyll-feed
+# Options
+darkMode: true
+showTags: true
+showCategories: true
+showSearch: true
+showSharePost: true
+showFavIcon: true
+showComments: true
+showCookieBanner: false
+useExternalContactForm: false
+useAnalytics: true
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Third Party / Social
+email: twintigersaanz@gmail.com
+facebook: 'https://facebook.com/twintigersaanz'
+# twitter: ''
+instagram: 'https://www.instagram.com/twintigersaanz/'
+# formspree: https://formspree.io/f/xxxxxxxx
+googleAnalyticsTrackingCode: G-F8KY7CY4VB
+# disqusID: ''
+# twitterHandle: ''
+
+# Collections
+collections:
+  projects:
+    output: true
+  category:
+    output: true
+  tag:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: "true"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      showInMenu: true
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "category"
+    values:
+      layout: "category"
+  - scope:
+      path: ""
+      type: "tag"
+    values:
+      layout: "tag"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Permalinks
+permalink: "/:categories/:year/:month/:day/:title/"
+
+# Pagination
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# Includes
+include: ["_pages"]
+
+# Post Separator
+excerpt_separator: <!--more-->
+
+# Assets
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
