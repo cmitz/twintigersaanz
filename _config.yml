@@ -10,6 +10,7 @@ url: "https://twintigersaanz.nl"
 # Options
 darkMode: true
 showTags: true
+showAuthors: false
 showCategories: true
 showSearch: false
 showSharePost: false

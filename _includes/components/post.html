@@ -14,6 +14,7 @@
             {{post.title}}
         {% endif %}
     </h2>
+    {% if site.showAuthors %}
     <div class="post-author">
         {% if author %}
             <img class="author-avatar" src="{{author.avatar | absolute_url}}" alt="{{author.name}}" width="50" height="50" />
@@ -39,6 +40,7 @@
             {% endif %}
         </div>
     </div>
+    {% endif %}
 
     <div class="post-content">
         {% if page.layout != 'post' %}
@@ -66,7 +68,7 @@
         {% if page.layout == 'post' and site.showSharePost %}
             <div class="post-share">
                 <span>Share</span>
-           
+
                 <ul class="social-networks">
                     <li><a href="https://facebook.com/sharer.php?u={{page.url | absolute_url}}" rel="nofollow" target="_blank"><svg width="16" height="16"><use href={{"/assets/images/social-icons.svg#facebook" | absolute_url}}></use></svg></a></li>
                     <li><a href="http://twitter.com/share?url={{page.url | absolute_url | escape}}&text={{post.content | strip_html | strip | truncate: 130}}&via={{site.twitterHandle}}" rel="nofollow" target="_blank"><svg width="16" height="16"><use href={{"/assets/images/social-icons.svg#twitter" | absolute_url}}></use></svg></a></li>
