@@ -12,9 +12,9 @@ darkMode: true
 showTags: true
 showCategories: true
 showSearch: true
-showSharePost: true
+showSharePost: false
 showFavIcon: true
-showComments: true
+showComments: false
 showCookieBanner: false
 useExternalContactForm: false
 useAnalytics: true

@@ -1,4 +1,5 @@
 ---
+author: guest
 title: "Sample Data"
 categories: docs
 tags: jekyll demo documentation
@@ -73,7 +74,7 @@ These are just a few of the *available* **configuration** options. Many configur
 I'm <code>code</code> block.
 
 **Styled Code Block**
-	
+
 {% highlight ruby linenos %}
 #!/usr/bin/ruby
 $LOAD_PATH << '.'
@@ -94,9 +95,9 @@ Week.weeks_in_month
 Week.weeks_in_year
 d1.no_of_months
 {% endhighlight %}
-	
+
 **Definition Lists**
-	
+
 <dl>
     <dt>Definition Title</dt>
     <dd>Definition Description</dd>

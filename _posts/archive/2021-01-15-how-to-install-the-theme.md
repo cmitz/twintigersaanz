@@ -1,5 +1,5 @@
 ---
-author: henry
+author: guest
 title: "How To Install"
 categories: docs
 tags: jekyll ruby bundler documentation

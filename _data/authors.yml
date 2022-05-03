@@ -1,8 +1,8 @@
-henry:
-  name: Henry Dawson
-  title: Ordinary Gentleman
-  avatar: /assets/images/user1.webp
 guest:
   name: Guest Star
   title: Guest Author
   avatar: /assets/images/user2.webp
+casper:
+  name: Casper Smits
+  title: Speler
+  avatar: /assets/images/user1.webp
