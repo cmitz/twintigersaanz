@@ -18,6 +18,7 @@
 <script src={{"/assets/js/reading-progress-bar.js" | absolute_url}}></script>
 {% endif %}
 
+{% if site.showSearch %}
 <script>
     SimpleJekyllSearch({
         searchInput: document.getElementById('site-search-input'),
@@ -27,6 +28,7 @@
         noResultsText: '<div class="no-results">No results found.</div>',
     })
 </script>
+{% endif %}
 
 {% if site.useAnalytics %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{site.googleAnalyticsTrackingCode}}"></script>
