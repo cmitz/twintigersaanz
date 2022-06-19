@@ -76,7 +76,7 @@ permalink: "/:categories/:year/:month/:day/:title/"
 
 # Pagination
 paginate: 10
-paginate_path: "/blog/page:num/"
+paginate_path: "/news/page:num/"
 
 # Includes
 include: ["_pages"]

@@ -5,6 +5,8 @@
         {% for p in pages | sort: 'title' %}
             {% if p.layout == 'page' and p.showInMenu %}
                 <a href="{{p.url | absolute_url}}" {% if p.url == page.url %}class="active"{% endif %}>{{p.title}}</a>
+            {% elsif p.layout == 'news' and p.showInMenu %}
+                <a href="{{p.url | absolute_url}}" {% if p.url == page.url %}class="active"{% endif %}>{{p.title}}</a>
             {% elsif p.showInMenu and p.customPage %}
                 <a href="{{p.url | absolute_url}}" {% if p.url == page.url %}class="active"{% endif %}>{{p.title}}</a>
             {% endif %}
