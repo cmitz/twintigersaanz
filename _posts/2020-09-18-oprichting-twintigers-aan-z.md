@@ -3,6 +3,7 @@ author: casper
 title:  "Welkom bij Twintigers aan Z!"
 date:   2020-09-18 09:30:54 +0200
 categories: Voorstelling
+description: Twintigers aan Z is opgericht in 2020 te Enschede foor Kaya en Zoë.
 ---
 
 <figure class="aligncenter">
