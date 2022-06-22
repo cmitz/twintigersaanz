@@ -33,12 +33,12 @@ window.addEventListener("DOMContentLoaded", function() {
         form.reset();
         button.style = "display: none;";
         message.classList.add('success');
-        message.innerHTML = "Message successfully submited!";
+        message.innerHTML = "Bericht verzonden!";
     }
 
     const error = () => {
         message.classList.add('error');
-        message.innerHTML = "Oops! There was a problem.";
+        message.innerHTML = "Oops! Dat ging niet helemaal lekker. Probeer het anders via een email naar twintigersaanz@gmail.com.";
     }
 
     form.addEventListener("submit", function(e) {
