@@ -1,20 +1,23 @@
 <div class="modal-container">
     <div class="modal">
         <div class="modal-header">
-            <strong class="modal-title">Contact Me</strong>
+            <strong class="modal-title">Stuur een berichtje</strong>
             <svg class="close-modal" width="50" height="50"><use href={{"/assets/images/other-icons.svg#close" | absolute_url}}></use></svg>
         </div>
         <div class="modal-body">
             <p id="contact-form-message" class="form-message"></p>
             <form id="contact-form" action="{{site.formspree}}" method="POST" role="form">
                 <label for="contact-name">
-                    <input type="text" placeholder="Your Name" name="name" id="contact-name" class="input">
+                    Naam
+                    <input type="text" placeholder="Wat is je naam?" name="name" id="contact-name" class="input">
                 </label>
                 <label for="contact-email">
-                    <input type="email" placeholder="Your Email" name="_replyto" id="contact-email" class="input">
+                    Email adres waar je een antwoord op wil ontvangen
+                    <input type="email" placeholder="Wat is je email adres?" name="_replyto" id="contact-email" class="input">
                 </label>
                 <label for="contact-message">
-                    <textarea placeholder="Message" name="message" id="contact-message" class="textarea"></textarea>
+                    Je berichtje
+                    <textarea placeholder="Wat zijn jullie een uitzonderlijk leuk gezelschap! Hebben jullie nog audities binnenkort?" name="message" id="contact-message" class="textarea"></textarea>
                 </label>
                 <button type="submit" id="submit-contact-form" class="button">Send Message</button>
             </form>
