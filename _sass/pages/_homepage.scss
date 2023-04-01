@@ -1,0 +1,17 @@
+.home > .page-title {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.main-page-jumbo {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 4rem;
+
+  justify-content: center;
+  align-items: center;
+
+  .description {
+    text-align: center;
+  }
+}
