@@ -14,6 +14,10 @@ De tweede voorstelling die we dit jaar aan je voorstellen is de voorstelling van
 
 <!--more-->
 
+### De Zeven Muzen
+
+In deze psychologische dramavoorstelling komt een groep onbekenden op dezelfde bestemming samen. Iedereen heeft voor zichzelf een duidelijk plan en doel. Om dit te kunnen bereiken is er maar één ding waar iedereen naar verlangt: rust. Maar als er meerdere verontrustende ontdekkingen worden gedaan en er dwarsverbanden in de samenkomst lijken te zijn rijst de vraag: wat is toeval en wat niet?
+
 ### Tickets
 
 De Zeven Muzen is te zien op **27 mei 2023 om 20.00 bij De Möllerwerf in Hengelo**
