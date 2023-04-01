@@ -6,10 +6,10 @@ categories: Voorstelling
 description: De donderdaggroep van Twintigers aan Z presenteert de voorstelling Conform de Norm, op 10 en 11 juni 2023 gespeeld in Enschede en Hengelo.
 ---
 
-Dit jaar heeft Twintigers aan Z het voorrecht om twee groepen te trainen, met als gevolg ook twee geheel eigen voorstellingen. Met gepaste trots presenteren wij vandaag de eerste van deze voorstellingen, de voorstelling van de dinsdaggroep: **Conform de Norm**.
+Dit jaar heeft Twintigers aan Z het voorrecht om twee groepen te trainen, met als gevolg ook twee geheel eigen voorstellingen. Met gepaste trots presenteren wij vandaag de eerste van deze voorstellingen, de voorstelling van de donderdaggroep: **Conform de Norm**.
 
 <figure class="aligncenter">
-	<img src="{{"/assets/images/posters/ConformDeNorm.jpeg" | absolute_url}}" width="800" height="508" alt="Poster van voorstelling 'Conform de Norm'. Het beeld is een silhouet van vogels zittend op een boomtak, en één vogel die dood gevallen op de grond ligt." />
+	<img src="{{"/assets/images/posters/TAZ_ConformDeNorm.jpg" | absolute_url}}" width="800" height="508" alt="Poster van voorstelling 'Conform de Norm'. Het beeld is een silhouet van vogels zittend op een boomtak, en één vogel die dood gevallen op de grond ligt." />
 </figure>
 
 <!--more-->
