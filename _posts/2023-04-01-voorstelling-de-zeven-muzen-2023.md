@@ -22,4 +22,7 @@ In deze psychologische dramavoorstelling komt een groep onbekenden op dezelfde b
 
 De Zeven Muzen is te zien op **27 mei 2023 om 20.00 bij De Möllerwerf in Hengelo**
 
-Twintigers aan Z voert deze voorstelling één keer op. Kaarten kosten €8,50 en zijn per e-mail te bestellen via <a target="_blank" href="mailto:tickets@twintigersaanz.nl?subject=Bestelling De%20Zeven%20Muzen&body=Beste%20Twintigers%20aan%20Z,%0A%0AIk%20zou%20graag%20kaarten%20willen%20bestellen%20voor%20de%20voorstelling%20De%20Zeven%20Muzen.%0A%0A" >tickets@twintigersaanz.nl</a>.
+Twintigers aan Z voert deze voorstelling één keer op. Kaarten kosten €8,50 en zijn per e-mail te bestellen via <a target="_blank" href="mailto:tickets@twintigersaanz.nl?subject=Bestelling De%20Zeven%20Muzen&body=Beste%20Twintigers%20aan%20Z,%0A%0AIk%20zou%20graag%20kaarten%20willen%20bestellen%20voor%20de%20voorstelling%20De%20Zeven%20Muzen.%0ANaam%20voor%20de%20reservering%3A%0AAantal%20tickets%3A%0A%0A">tickets@twintigersaanz.nl</a>. Vermeld in de email uw naam, het aantal tickets, en de naam van de voorstelling.
+
+%0A%0A
+%20

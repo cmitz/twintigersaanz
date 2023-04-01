@@ -38,4 +38,4 @@ Conform de Norm is te zien op:
 
 Twintigers aan Z voert deze voorstelling twee keer op. Kaarten kosten €12,50.<br>
 Kaarten voor 10 juni zijn te koop via [concordia.nl](https://www.concordia.nl/theater/conform-de-norm/). <br>
-Kaarten voor 11 juni zijn per e-mail te bestellen via <a target="_blank" href="mailto:tickets@twintigersaanz.nl?subject=Bestelling Conform%20de%20Norm&body=Beste%20Twintigers%20aan%20Z,%0A%0AIk%20zou%20graag%20kaarten%20willen%20bestellen%20voor%20de%20voorstelling%20Conform%20de%20Norm.%0A%0A" >tickets@twintigersaanz.nl</a>.
+Kaarten voor 11 juni zijn per e-mail te bestellen via <a target="_blank" href="mailto:tickets@twintigersaanz.nl?subject=Bestelling Conform%20de%20Norm&body=Beste%20Twintigers%20aan%20Z,%0A%0AIk%20zou%20graag%20kaarten%20willen%20bestellen%20voor%20de%20voorstelling%20Conform%20de%20Norm.%0ANaam%20voor%20de%20reservering%3A%0AAantal%20tickets%3A%0A%0A" >tickets@twintigersaanz.nl</a>. Vermeld in de email uw naam, het aantal tickets, en de naam van de voorstelling.
