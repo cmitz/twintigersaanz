@@ -22,7 +22,7 @@ Twintigers aan Z verkent met deze eigenzinnige voorstelling het spanningsveld tu
 
 **Spel:**
 
-Bram Reinders, Carlin Oosterveen, Casper Smits, Cleo Kappert, Daan de Kuyper, Daphne lJzerman, Milou van Pomeren, Robert Middelburg, Stef Jonabloed, Zoë 't Hooft
+Bram Reinders, Carlijn Oosterveen, Casper Smits, Cleo Kappert, Daan de Kuyper, Daphne lJzerman, Milou van Pomeren, Robert Middelburg, Stef Jongbloed, Zoë 't Hooft
 
 **Met dank aan:**
 Gemeente Enschede & Prins Bernhard Cultuurfonds
