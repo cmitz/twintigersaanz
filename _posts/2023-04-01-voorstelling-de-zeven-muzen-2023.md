@@ -10,6 +10,8 @@ Dit jaar speelt Twintigers aan Z maar liefst twee verschillende voorstellingen! 
 
 ### Tickets
 
+<p><strong>Deze voorstelling is uitverkocht.</strong> Er zijn nog wel tickets beschikbaar voor Conform de Norm op 10 en 11 juni.</p>
+
 De Zeven Muzen is te zien op **27 mei 2023 om 20.00 bij De Möllerwerf in Hengelo**.
 
 Ticketprijs: €8,50.
