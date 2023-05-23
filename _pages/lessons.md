@@ -11,19 +11,21 @@ permalink: /lesaanbod/
 
 Het theaterseizoen (en de kosten) zijn gebaseerd op 33 lessen + voorstelling in de periode september 2023 - juni 2024. VOL = VOL
 
+Leslocatie: Regulusstraat 8, 7521DX Enschede (Paulus)
+
 ## Niveau 1
 
 Deze groep is er voor spelers die nog niet zoveel spelervaring hebben maar dit wel willen opdoen. Er wordt voor deze groep geen auditie gehouden. Daarnaast is er de mogelijkheid om in de toekomst door te stromen naar Niveau II.
 
 <dl class="info-table">
   <dt>Repetitiedag</dt>
-  <dd>In overleg</dd>
+  <dd>Dinsdag</dd>
 
   <dt>Repetitietijd</dt>
-  <dd>20:15 - 22:00</dd>
+  <dd>20:00 - 22:00</dd>
 
   <dt>Start lessen</dt>
-  <dd>Week 19 (23 september)</dd>
+  <dd>19 september</dd>
 
   <dt>Kosten</dt>
   <dd>€275</dd>
@@ -31,17 +33,17 @@ Deze groep is er voor spelers die nog niet zoveel spelervaring hebben maar dit w
 
 ## Niveau 2
 
-Deze groep is er voor spelers die al de nodige spelervaring hebben. Er wordt voor deze groep wel een auditie gehouden.
+Deze groep is er voor spelers die al de nodige spelervaring hebben. Er wordt voor deze groep een auditie gehouden.
 
 <dl class="info-table">
   <dt>Repetitiedag</dt>
   <dd>Donderdag</dd>
 
   <dt>Repetitietijd</dt>
-  <dd>20:15 - 22:00</dd>
+  <dd>20:00 - 22:00</dd>
 
   <dt>Start lessen</dt>
-  <dd>22 september</dd>
+  <dd>21 september</dd>
 
   <dt>Kosten</dt>
   <dd>€275</dd>
@@ -49,11 +51,13 @@ Deze groep is er voor spelers die al de nodige spelervaring hebben. Er wordt voo
 
 ## Extra data
 
-Auditie niveau II	8 september (aanmelden voor 26/8)
+Proefles niveau I: 19 september (aanmelden voor 12 september)
+
+Auditie & proefles niveau II: 21 september (aanmelden voor 14 september)
 
 ## Aanmelden en inschrijven
 
-**Aanmelden** voor de auditie doe je door een mailtje te sturen naar [twintigersaanz@gmail.com](mailto:twintigersaanz@gmail.com)
+**Aanmelden** voor een proefles (en voor de niveau II groep tevens auditie) doe je door een mailtje te sturen naar [twintigersaanz@gmail.com](mailto:twintigersaanz@gmail.com)
 Vermeld hierin je naam en leeftijd.
 
 **Inschrijven** voor het theaterseizoen doe je door een mailtje te sturen naar [twintigersaanz@gmail.com](mailto:twintigersaanz@gmail.com) Vermeld hierin je naam, leeftijd en voor welke groep (niveau I of II) je je wilt inschrijven. Je krijgt dan een digitaal inschrijfformulier per mail toegestuurd.
