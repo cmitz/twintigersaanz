@@ -4,7 +4,10 @@ title: Lid worden
 description: Hoe kan ik meedoen met Twintigers aan Z?
 order: 1
 customPage: true
+showInMenu: true
 permalink: /lesaanbod/
+
+customMenuClass: menu__item--emphasis
 ---
 
 ## Algemene info
