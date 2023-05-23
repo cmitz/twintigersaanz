@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<article class="page single" role="article">
+<section class="page">
     <h2 class="page-title" role="heading">{{page.title}}</h2>
     <div class="page-content">
-        {{content}}
+        {{content | markdownify}}
     </div>
-</article>
+</section>

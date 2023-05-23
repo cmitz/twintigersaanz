@@ -2,6 +2,9 @@
 title: Twintigers aan Z
 description: >-
   Theatergroep Twintigers aan Z uit Enschede
+locale: nl_NL
+tagline: >-
+  Dé theatergroep voor Twentse jongeren tussen de 20 en 30
 
 # Paths
 baseurl: ''
@@ -29,6 +32,7 @@ formspree: https://formspree.io/f/mzboqenj
 googleAnalyticsTrackingCode: G-F8KY7CY4VB
 # disqusID: ''
 # twitterHandle: ''
+google-site-verification: 4l-e1BYeCyWync1MWfS_3Pjp-Jn54WwCyZJvLWLf7nM
 
 # Collections
 collections:

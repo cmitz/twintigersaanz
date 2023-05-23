@@ -1,20 +1,19 @@
 ---
-layout: default
+layout: page
 title: Lid worden
+description: Hoe kan ik meedoen met Twintigers aan Z?
 order: 1
 customPage: true
 permalink: /lesaanbod/
 ---
-<section class="page">
-<h2 class="page-title">Algemene info</h2>
-<div class="page-content">
-{{ "Het theaterseizoen (en de kosten) zijn gebaseerd op 33 lessen + voorstelling in de periode september 2022 - juni 2023. Vol = Vol" | markdownify }}
 
-{{"
+## Algemene info
+
+Het theaterseizoen (en de kosten) zijn gebaseerd op 33 lessen + voorstelling in de periode september 2023 - juni 2024. VOL = VOL
+
 ## Niveau 1
 
 Deze groep is er voor spelers die nog niet zoveel spelervaring hebben maar dit wel willen opdoen. Er wordt voor deze groep geen auditie gehouden. Daarnaast is er de mogelijkheid om in de toekomst door te stromen naar Niveau II.
-" | markdownify }}
 
 <dl class="info-table">
   <dt>Repetitiedag</dt>
@@ -30,11 +29,9 @@ Deze groep is er voor spelers die nog niet zoveel spelervaring hebben maar dit w
   <dd>€275</dd>
 </dl>
 
-{{"
 ## Niveau 2
 
 Deze groep is er voor spelers die al de nodige spelervaring hebben. Er wordt voor deze groep wel een auditie gehouden.
-" | markdownify}}
 
 <dl class="info-table">
   <dt>Repetitiedag</dt>
@@ -50,8 +47,8 @@ Deze groep is er voor spelers die al de nodige spelervaring hebben. Er wordt voo
   <dd>€275</dd>
 </dl>
 
-{{"
 ## Extra data
+
 Auditie niveau II	8 september (aanmelden voor 26/8)
 
 ## Aanmelden en inschrijven
@@ -60,6 +57,3 @@ Auditie niveau II	8 september (aanmelden voor 26/8)
 Vermeld hierin je naam en leeftijd.
 
 **Inschrijven** voor het theaterseizoen doe je door een mailtje te sturen naar [twintigersaanz@gmail.com](mailto:twintigersaanz@gmail.com) Vermeld hierin je naam, leeftijd en voor welke groep (niveau I of II) je je wilt inschrijven. Je krijgt dan een digitaal inschrijfformulier per mail toegestuurd.
-" | markdownify }}
-</div>
-</section>
