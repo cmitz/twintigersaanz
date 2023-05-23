@@ -3,7 +3,7 @@ author: casper
 title:  "Twintigers aan Z presents: Conform de Norm"
 date:   2023-03-29 12:00:00 +0200
 categories: Voorstelling
-description: De donderdaggroep van Twintigers aan Z presenteert de voorstelling Conform de Norm, op 10 en 11 juni 2023 gespeeld in Enschede en Hengelo.
+description: De niveau 2 groep van Twintigers aan Z presenteert de voorstelling Conform de Norm, op 10 en 11 juni 2023 gespeeld in Enschede en Hengelo.
 ---
 
 Dit jaar heeft Twintigers aan Z het voorrecht om twee groepen te trainen, met als gevolg ook twee geheel eigen voorstellingen. Met trots presenteert de niveau 2 groep hun zelfgemaakte voorstelling: **Conform de Norm**.

@@ -3,7 +3,7 @@ author: casper
 title:  "Twintigers aan Z presents: De Zeven Muzen"
 date:   2023-04-01 12:00:00 +0200
 categories: Voorstelling
-description: De dinsdaggroep van Twintigers aan Z presenteert de voorstelling De Zeven Muzen, op 27 mei 2023 gespeeld in Hengelo.
+description: De niveau 1 groep van Twintigers aan Z presenteert de voorstelling De Zeven Muzen, op 27 mei 2023 gespeeld in Hengelo.
 ---
 
 Dit jaar speelt Twintigers aan Z maar liefst twee verschillende voorstellingen! Met trots presenteert de niveau 1 groep hun voorstelling:**De Zeven Muzen**.
