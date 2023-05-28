@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aanmelden
+title: Aanmelden proefles
 order: 4
 customPage: true
 showInMenu: false
