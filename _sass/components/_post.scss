@@ -67,14 +67,22 @@
                 & > code { font-size: 14px; padding: 3px 6px; margin: 0 4px; background: var(--grey-fa); border: 1px solid var(--grey-ccc); }
             }
         }
-        
+
         p { margin: 15px 0;
             & > code { font-size: 14px; padding: 3px 6px; margin: 0 4px; background: var(--grey-fa); border: 1px solid var(--grey-ccc); }
         }
 
         .alignleft { float: left; margin: 20px 30px 10px 0; }
         .alignright { float: right; margin: 20px 0 10px 20px; }
-        .aligncenter { clear: both; margin: 0 auto 20px; }
+
+        .aligncenter {
+            clear: both;
+            margin: 0 auto 20px;
+
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
 
         figcaption { font-size: 13px; font-style: italic; padding-top: 10px; }
 
@@ -93,7 +101,7 @@
                 }
             }
         }
-        .post-share { position: relative; @include flex(0, 0, auto); border: 1px solid var(--grey-ddd); overflow: hidden; 
+        .post-share { position: relative; @include flex(0, 0, auto); border: 1px solid var(--grey-ddd); overflow: hidden;
             &:hover {
                 & > span { margin-left: -100%; }
                 & > ul { left: 0; }
@@ -110,13 +118,13 @@
             }
         }
     }
-    
+
     .post-comments { position: relative; margin: 40px 0 0; padding: 20px 0 0; border-top: 1px solid var(--grey-ddd); }
 }
 
 
 @media screen and (max-width: 960px) {
-    .post { 
+    .post {
         .post-title { margin: 0 0 15px; }
         .post-author { @include flexbox(); @include align-items(); @include flex-flow(row wrap); gap: 15px; position: static; width: 100%; margin: 0 0 20px; text-align: left;
             .author-avatar { width: 36px; height: 36px; }

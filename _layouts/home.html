@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<section class="post-list">
+    {% for post in site.posts limit:1 %}
+        {% include components/post.html %}
+    {% endfor %}
+</section>
+
 <article class="page home" role="article">
     <h2 class="page-title" role="heading">{{page.title}}</h2>
     <div class="page-content">
