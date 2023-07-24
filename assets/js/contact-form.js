@@ -38,7 +38,7 @@ window.addEventListener("DOMContentLoaded", function() {
 
     const error = () => {
         message.classList.add('error');
-        message.innerHTML = "Oops! Dat ging niet helemaal lekker. Probeer het anders via een email naar twintigersaanz@gmail.com.";
+        message.innerHTML = "Oops! Dat ging niet helemaal lekker. Probeer het anders via een email naar info@twintigersaanz.nl.";
     }
 
     form.addEventListener("submit", function(e) {

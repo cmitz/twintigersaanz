@@ -60,7 +60,7 @@ Auditie & proefles niveau II: 21 september (aanmelden voor 14 september)
 
 ## Aanmelden en inschrijven
 
-**Aanmelden** voor een proefles (en voor de niveau II groep tevens auditie) doe je door een mailtje te sturen naar [twintigersaanz@gmail.com](mailto:twintigersaanz@gmail.com)
+**Aanmelden** voor een proefles (en voor de niveau II groep tevens auditie) doe je door een mailtje te sturen naar [info@twintigersaanz.nl](mailto:info@twintigersaanz.nl)
 Vermeld hierin je naam en leeftijd.
 
-**Inschrijven** voor het theaterseizoen doe je door een mailtje te sturen naar [twintigersaanz@gmail.com](mailto:twintigersaanz@gmail.com) Vermeld hierin je naam, leeftijd en voor welke groep (niveau I of II) je je wilt inschrijven. Je krijgt dan een digitaal inschrijfformulier per mail toegestuurd.
+**Inschrijven** voor het theaterseizoen doe je door een mailtje te sturen naar [info@twintigersaanz.nl](mailto:info@twintigersaanz.nl) Vermeld hierin je naam, leeftijd en voor welke groep (niveau I of II) je je wilt inschrijven. Je krijgt dan een digitaal inschrijfformulier per mail toegestuurd.
