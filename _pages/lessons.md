@@ -60,7 +60,7 @@ Auditie & proefles niveau II: 21 september (aanmelden voor 14 september)
 
 ## Aanmelden en inschrijven
 
-**Aanmelden** voor een proefles (en voor de niveau II groep tevens auditie) doe je door hieronder op de Inschrijven-knop te klikken en het formulier in te vullen.
+**Aanmelden** voor een proefles (en voor de niveau II groep tevens auditie) doe je door hieronder op de Aanmelden-knop te klikken en het formulier in te vullen.
 
 <a href="{% link _pages/aanmelden.md %}" role="button" class="button">Aanmelden</a>
 
